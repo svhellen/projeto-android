@@ -25,7 +25,7 @@
     --cor5: #063d1e;
 
     --font-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --font-destaque: 'Bebas Neue', cursive;
+    --font-destaque: 'Oswald', sans-serif;
     --font-android: 'idroid', cursive;
 }
 
@@ -35,7 +35,7 @@
 }
 
 body {
-    /*font-family: 'Oswald', sans-serif;*/
+    /*font-family: 'Bebas Neue', cursive;*/
     font-family: var(--font-padrao);
     background-color: rgba(204, 204, 60, 0.482);
 }
@@ -62,7 +62,7 @@ header > p {
     padding-right: 10px;
     max-width: 500px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 nav {
